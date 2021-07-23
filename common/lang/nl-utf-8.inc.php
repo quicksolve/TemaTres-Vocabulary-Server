@@ -79,7 +79,7 @@ define("LABEL_borraRelacion", "verwijder relatie");
 define("MSG_ResultBusca", "term(en) gevonden voor zoekexpressie ");
 define("MSG_ResultLetra", "Letter");
 define("MSG_ResultCambios", "wijziging succesvol");
-define("MSG_noUser", "Geen geregistreerde gebruiker");
+define("MSG_noUser", "De inlog informatie is niet correct. Probeer opnieuw.");
 define("FORM_JS_check", "AUB, controleer de invoer van ");
 define("FORM_JS_confirm", "deze relatie elimineren?");
 define("FORM_JS_pass", "_wachtwoord");
