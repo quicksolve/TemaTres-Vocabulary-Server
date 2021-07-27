@@ -79,7 +79,7 @@ define("LABEL_borraRelacion", "Supprimer la relation");
 define("MSG_ResultBusca", "terme(s) trouvé(s) lors de la recherche");
 define("MSG_ResultLetra", "Lettre");
 define("MSG_ResultCambios", "Modifications réussies.");
-define("MSG_noUser", "Utilisateur non enregistré");
+define("MSG_noUser", "Les informations de connexion sont incorrectes. Veuillez réessayer.");
 define("FORM_JS_check", "S'il vous plaît, vérifiez les données de ");
 define("FORM_JS_confirm", "Êtes-vous sûr de vouloir supprimer le terme ou la relation ?");
 define("FORM_JS_pass", "_mot_de_passe");

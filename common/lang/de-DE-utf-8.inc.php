@@ -85,7 +85,7 @@ define("LABEL_borraRelacion", "Relation löschen");
 define("MSG_ResultBusca", "Begriff(e) gefunden für: ");
 define("MSG_ResultLetra", "Buchstabe");
 define("MSG_ResultCambios", "Die Änderung wurde gespeichert");
-define("MSG_noUser", "Benutzer unbekannt");
+define("MSG_noUser", "Die Login-Daten sind falsch. Bitte versuche es erneut.");
 define("FORM_JS_check", "Bitte Angaben prüfen für: ");
 define("FORM_JS_confirm", "Möchten Sie diese Relation wirklich löschen?");
 define("FORM_JS_pass", "_pass");

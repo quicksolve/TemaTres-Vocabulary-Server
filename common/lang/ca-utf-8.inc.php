@@ -79,7 +79,7 @@ define("LABEL_borraRelacion", "eliminar relació");
 define("MSG_ResultBusca", "terme/s trobats a la cerca");
 define("MSG_ResultLetra", "Lletra");
 define("MSG_ResultCambios", "Els canvis s'han fet amb èxit.");
-define("MSG_noUser", "Usuari no registrat");
+define("MSG_noUser", "La informació d'inici de sessió és incorrecta. Siusplau torna-ho a provar.");
 define("FORM_JS_check", "Si us plau reviseu les dades de ");
 define("FORM_JS_confirm", "Segur que voleu eliminar el terme o la relació?");
 define("FORM_JS_pass", "_clau");

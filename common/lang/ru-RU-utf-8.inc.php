@@ -85,7 +85,7 @@ define("LABEL_borraRelacion", "удалить взаимосвязь");
 define("MSG_ResultBusca", "термины, найденные для выражения поиска");
 define("MSG_ResultLetra", "Буква");
 define("MSG_ResultCambios", "замена выполнена успешно.");
-define("MSG_noUser", "Незарегистрированный пользователь");
+define("MSG_noUser", "Информация для входа неверна. Пожалуйста, попробуйте еще раз.");
 define("FORM_JS_check", "Проверьте данные ");
 define("FORM_JS_confirm", "удалить эту взаимосвязь?");
 define("FORM_JS_pass", "_пароль");

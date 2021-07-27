@@ -85,7 +85,7 @@ define("LABEL_borraRelacion", "Zerikusia eliminatzea");
 define("MSG_ResultBusca", "BilaketarentzatAurkako terminoak");
 define("MSG_ResultLetra", "Letra");
 define("MSG_ResultCambios", "Kanbioak Arrakastarekin egin dute.");
-define("MSG_noUser", "Ez miatuta erabiltzailea");
+define("MSG_noUser", "Saioa hasteko informazioa okerra da. Saiatu berriro mesedez.");
 define("FORM_JS_check", "Mesedez datuak berrikusi ditzan ");
 define("FORM_JS_confirm", "Hau asegurua eliminatzea desiratzen duela edo zerikusia bukatzen dut?");
 define("FORM_JS_pass", "_Klabea");

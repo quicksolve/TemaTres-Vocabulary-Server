@@ -79,7 +79,7 @@ define("LABEL_borraRelacion", "删除关系");
 define("MSG_ResultBusca", "检索式命中词条数 ");
 define("MSG_ResultLetra", "字母");
 define("MSG_ResultCambios", "更新成功");
-define("MSG_noUser", "不是一个注册用户");
+define("MSG_noUser", "登录信息不正确。请再试一次。");
 define("FORM_JS_check", "请核对数据");
 define("FORM_JS_confirm", "删除这个关系吗？");
 define("FORM_JS_pass", "_密码 ");

@@ -79,7 +79,7 @@ define("LABEL_borraRelacion", "Usuń relację");
 define("MSG_ResultBusca", "Znaleziono termin/ów ");
 define("MSG_ResultLetra", "Liter");
 define("MSG_ResultCambios", "zatwierdzono zmianę");
-define("MSG_noUser", "Niezarejestrowany użytkownik");
+define("MSG_noUser", "Dane logowania są nieprawidłowe. Proszę spróbuj ponownie.");
 define("FORM_JS_check", "Proszę sprawdzić datę ");
 define("FORM_JS_confirm", "Usunąć tę relację?");
 define("FORM_JS_pass", "_hasło");
